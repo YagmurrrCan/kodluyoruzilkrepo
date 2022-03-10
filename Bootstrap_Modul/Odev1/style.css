@@ -1,0 +1,61 @@
+body {
+    background-image: url("/images/siyah.jpg");
+    background-repeat: round; 
+  } 
+
+  img {
+      border:#ffffff;
+      
+  }
+  h1 {
+    color: #ffffff;
+    text-align: center;
+    font-size: 2em;  
+  }
+
+  nav {
+      text-align: center;
+  }
+
+  h2 {
+      color: #ffffff;
+      text-align: center;
+      font-size: 1.5em;
+  }
+
+  ul {
+      list-style-position: inside; 
+      text-align: center;
+      font-family: 'Times New Roman', Times, serif;
+  }
+
+  div {
+      color: #ffffff;
+      text-align: center;   
+  }
+  
+  li{
+      color: #ffffff;
+  }
+
+  a{
+      color: #ffffff;
+  }
+
+  p {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1em;
+    text-align: center;
+    color: #ffffff;
+  }
+
+  h3 {
+      color: #ffffff;
+      text-align: center;
+      font-size: 1em;
+  } 
+
+  footer {
+     text-align: center;
+     color:#ffffff;
+  }
